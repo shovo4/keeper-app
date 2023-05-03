@@ -1,4 +1,4 @@
-React project: Keeper app where tasks can be added and removed instantly. there is no backend, so tasks will not ssaved if you refresh the page.
+React project: Keeper app where tasks can be added and removed instantly. there is no backend, so tasks will not saved if you refresh the page.
 <img width="1470" alt="Screen Shot 2023-02-05 at 5 50 41 PM" src="https://user-images.githubusercontent.com/58551093/216858342-838b2ab7-8110-4bb8-b2c0-9ee67d19ddc3.png">
 
 
